@@ -1,0 +1,75 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Japan ; Times: 2
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-17 ; Times: 3
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phocoena dioptrica" ; Times: 2
+	Query: "genus:Caperea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 2
+	Query: "Erythrura gouldiae" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 326 download events in this period)
+Total number of records downloaded: 1149 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 816
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 7
+Total number of records retrieved from searches: 17
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 2807
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 8
+Total number of records retrieved from searches: 18
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 2807
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
