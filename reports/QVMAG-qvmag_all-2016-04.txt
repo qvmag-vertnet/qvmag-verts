@@ -1,0 +1,173 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 167
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Panama ; Times: 5
+	Country: Russia ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "parapriacanthus" ; Times: 1
+	Query: "type:specimen genus:Neophoca order:Carnivora" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 2
+	Query: "mastacomys" ; Times: 1
+	Query: "witch" ; Times: 19
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1312 download events in this period)
+Total number of records downloaded: 2446
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 108
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 42
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 5
+	Date: 2016-04-22 ; Times: 48
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 4
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "APLODACTYLIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+
+
+End of report.
