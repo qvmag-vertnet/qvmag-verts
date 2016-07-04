@@ -1,0 +1,93 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 16
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-01 ; Times: 7
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "parapriacanthus elongatus" ; Times: 1
+	Query: "genus:canis" ; Times: 1
+	Query: "Dama dama 1" ; Times: 2
+	Query: "witch" ; Times: 6
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1052 download events in this period)
+Total number of records downloaded: 209
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 7
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Columba livia" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
