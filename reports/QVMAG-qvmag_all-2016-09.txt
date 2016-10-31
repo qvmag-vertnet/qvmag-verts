@@ -1,0 +1,73 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 115
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 22
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-08 ; Times: 10
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 7
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Cacatua roseicapilla 1" ; Times: 1
+	Query: "Cacatua galerita 1" ; Times: 1
+	Query: "Cacatua leadbeateri 1" ; Times: 1
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "cynocephalus" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "bos taurus taurus" ; Times: 1
+	Query: "Streptopelia roseogrisea 1" ; Times: 3
+	Query: "Agapornis roseicollis 1" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "Anas castanea 1" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 2
+	Query: "Anas rhynchotis 1" ; Times: 2
+	Query: "Dama dama 1" ; Times: 3
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 811 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cygnus" ; Times: 1
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "circus approximans type:specimen" ; Times: 1
+
+
+End of report.
