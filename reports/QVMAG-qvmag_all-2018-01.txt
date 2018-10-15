@@ -1,0 +1,85 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Italy ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-27 ; Times: 3
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Lepidopus caudatus" ; Times: 3
+	Query: "Dama dama" ; Times: 1
+	Query: "phascolarctos cinereus" ; Times: 1
+	Query: "Parma viola" ; Times: 1
+	Query: "Hydroprogne caspia" ; Times: 1
+	Query: "Parma victoriae mappable:1" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:mulatta genus:Macaca" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Tasmania&#34; country:&#34;Australia&#34;" ; Times: 1
+	Query: "Parma viola mappable:1" ; Times: 1
+	Query: "Parma victoriae" ; Times: 1
+	Query: "(&#34;caperea marginata&#34;) mappable:1" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Australia&#34;" ; Times: 1
+	Query: "specificepithet:inexpectata class:aves" ; Times: 3
+	Query: "hirundapus" ; Times: 1
+	Query: "lepidopus caudatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1398 download events in this period)
+Total number of records downloaded: 5370
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Italy ; Times: 6
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-02 ; Times: 6
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "&#34;Phascolarctos cinereus&#34; mappable:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "Phascolarctos cinereus mappable:1" ; Times: 1
+	Query: "order:Dasyuromorphia" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Rattus rattus" ; Times: 2
+
+
+End of report.
