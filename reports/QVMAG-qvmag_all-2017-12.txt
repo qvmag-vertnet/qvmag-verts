@@ -1,0 +1,79 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 271
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 13
+	Country: France ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 5
+	Date: 2017-12-23 ; Times: 3
+	Date: 2017-12-22 ; Times: 7
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-14 ; Times: 6
+	Date: 2017-12-11 ; Times: 48
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Parascyllium ferrugineum" ; Times: 5
+	Query: "Urolophus viridis" ; Times: 1
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 2
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 1
+	Query: "Anthias anthias mappable:1" ; Times: 2
+	Query: "Squatina australis" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "Scomberesox saurus mappable:1" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 1
+	Query: "lepidopus caudatus" ; Times: 3
+	Query: "Furgaleus macki" ; Times: 5
+	Query: "Lepidopus caudatus mappable:1" ; Times: 1
+	Query: "Asymbolus vincenti" ; Times: 6
+	Query: "Parascyllium collare" ; Times: 5
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Galeorhinus galeus mappable:1" ; Times: 1
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "genus:Sphyrna" ; Times: 4
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Upeneichthys vlamingii" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Chionis minor" ; Times: 8
+	Query: "Carcharhinus brachyurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 674 download events in this period)
+Total number of records downloaded: 396
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Elasmobranchii" ; Times: 3
+
+
+End of report.
