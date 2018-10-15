@@ -1,0 +1,108 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 443
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: Portugal ; Times: 83
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 46
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-20 ; Times: 39
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coturnix chinensis mappable:1" ; Times: 3
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "Chloebia gouldiae mappable:1" ; Times: 5
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "Chenonetta jubata mappable:1" ; Times: 4
+	Query: "Anas castanea mappable:1" ; Times: 4
+	Query: "Alectoris graeca mappable:1" ; Times: 4
+	Query: "Cereopsis novaehollandiae mappable:1" ; Times: 4
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "Lathamus discolor mappable:1" ; Times: 3
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "Numenius madagascariensis" ; Times: 4
+	Query: "Nymphicus hollandicus mappable:1" ; Times: 3
+	Query: "Ocyphaps lophotes mappable:1" ; Times: 2
+	Query: "orcinus orca" ; Times: 1
+	Query: "Anas rhynchotis mappable:1" ; Times: 3
+	Query: "Acrocephalus stentoreus" ; Times: 1
+	Query: "Agapornis personata mappable:1" ; Times: 3
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Polytelis swainsonii mappable:1" ; Times: 3
+	Query: "Neochmia ruficauda mappable:1" ; Times: 4
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Poephila acuticauda mappable:1" ; Times: 4
+	Query: "Pytilia phoenicoptera mappable:1" ; Times: 4
+	Query: "macaca mulatta" ; Times: 2
+	Query: "Platycercus eximius mappable:1" ; Times: 3
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Agapornis roseicollis mappable:1" ; Times: 3
+	Query: "Cacatua galerita mappable:1" ; Times: 3
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "Streptopelia roseogrisea mappable:1" ; Times: 4
+	Query: "Erythrura gouldiae mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1892 download events in this period)
+Total number of records downloaded: 798
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "specificepithet:roseicapilla genus:Cacatua" ; Times: 1
+
+
+End of report.
