@@ -1,0 +1,72 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 366
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 6
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 2
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:atratus genus:Cygnus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:QVMAG" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1178 download events in this period)
+Total number of records downloaded: 673
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+
+
+End of report.
