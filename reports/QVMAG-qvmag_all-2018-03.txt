@@ -1,0 +1,81 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 3441
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 137
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 8
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 8
+	Date: 2018-03-03 ; Times: 9
+	Date: 2018-03-05 ; Times: 8
+	Date: 2018-03-06 ; Times: 14
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 31
+	Date: 2018-03-27 ; Times: 22
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 5
+	Date: 2018-03-20 ; Times: 7
+	Date: 2018-03-21 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 2
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 5
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 6
+	Query: "genus:Creocele specificepithet:cardinalis" ; Times: 5
+	Query: "genus:Cristiceps specificepithet:australis" ; Times: 5
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 5
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 3
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 5
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "genus:Egernia specificepithet:whitii" ; Times: 2
+	Query: "agapornis roseicollis" ; Times: 2
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 2
+	Query: "genus:Dasyurus specificepithet:viverrinus" ; Times: 5
+	Query: "genus:Vombatus specificepithet:ursinus" ; Times: 5
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 8
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "genus:Urolophus specificepithet:cruciatus" ; Times: 5
+	Query: "vincenti" ; Times: 2
+	Query: "genus:Omegophora specificepithet:armilla" ; Times: 5
+	Query: "genus:Felis specificepithet:catus" ; Times: 5
+	Query: "genus:Moloch specificepithet:horridus" ; Times: 2
+	Query: "genus:Ptilinopus specificepithet:superbus" ; Times: 5
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 5
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 5
+	Query: "trygonorrhina" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "Chalinolobus morio" ; Times: 1
+	Query: "genus:Cochleoceps specificepithet:bassensis" ; Times: 5
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 7
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 5
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+
+
+End of report.
