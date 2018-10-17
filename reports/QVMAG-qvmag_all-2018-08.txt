@@ -1,0 +1,48 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-21 ; Times: 5
+	Date: 2018-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "picta victoria" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "gallirallus australis" ; Times: 4
+	Query: "zoothera dauma" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1416 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pelamis" ; Times: 1
+	Query: "felis catus" ; Times: 1
+
+
+End of report.
