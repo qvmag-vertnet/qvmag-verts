@@ -1,0 +1,82 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 101
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 13
+	Country: Venezuela ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 7
+	Date: 2018-11-25 ; Times: 3
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-30 ; Times: 14
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dentex dentex mappable:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "specificepithet:glesne genus:regalecus mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 1
+	Query: "Anthias anthias mappable:1" ; Times: 1
+	Query: "Beryx decadactylus mappable:1" ; Times: 1
+	Query: "Morus serrator mappable:1" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 2
+	Query: "specificepithet:brachyurus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 4
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "specificepithet:cephalus genus:mugil mappable:1" ; Times: 1
+	Query: "pavo cristatus" ; Times: 6
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "specificepithet:pelamis genus:katsuwonus mappable:1" ; Times: 1
+	Query: "specificepithet:atun genus:thyrsites mappable:1" ; Times: 1
+	Query: "Cheilodactylus nigripes" ; Times: 1
+	Query: "Brama brama mappable:1" ; Times: 1
+	Query: "specificepithet:zygaena genus:sphyrna mappable:1" ; Times: 1
+	Query: "specificepithet:galeus genus:galeorhinus mappable:1" ; Times: 1
+	Query: "alopochen" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1719 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-10 ; Times: 3
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dama dama" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 4
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "Turdus merula" ; Times: 1
+	Query: "Stigmatopora argus" ; Times: 1
+	Query: "Carduelis chloris" ; Times: 1
+	Query: "penguin" ; Times: 1
+
+
+End of report.
