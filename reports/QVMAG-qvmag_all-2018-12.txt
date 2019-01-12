@@ -1,0 +1,170 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 977
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Switzerland ; Times: 52
+	Country: Italy ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-19 ; Times: 3
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-06 ; Times: 7
+	Date: 2018-12-07 ; Times: 20
+	Date: 2018-12-17 ; Times: 38
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-11 ; Times: 16
+	Date: 2018-12-04 ; Times: 11
+	Date: 2018-12-13 ; Times: 22
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo trutta mappable:1" ; Times: 1
+	Query: "Heptranchias perlo mappable:1" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1986-2-0118" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:1981-2-0230 institutioncode:QVMAG" ; Times: 1
+	Query: "Vanacampus phillipi" ; Times: 1
+	Query: "Notopogon lilliei mappable:1" ; Times: 2
+	Query: "Trachurus trachurus mappable:1" ; Times: 2
+	Query: "specificepithet:glesne genus:regalecus mappable:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:1981 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1981-2-0745" ; Times: 1
+	Query: "Urocampus carinirostris mappable:1" ; Times: 1
+	Query: "Solegnathus spinosissimus mappable:1" ; Times: 1
+	Query: "Stigmatopora argus" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 4
+	Query: "Stigmatopora argus mappable:1" ; Times: 1
+	Query: "specificepithet:brachyurus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1994-2-0019" ; Times: 1
+	Query: "myiagra cyanoleuca" ; Times: 1
+	Query: "vntype:specimen genus:Tyto country:&#34;Australia&#34; catalognumber:1970 institutioncode:QVMAG" ; Times: 2
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1981 institutioncode:QVMAG" ; Times: 1
+	Query: "vntype:specimen genus:Tyto catalognumber:1984 institutioncode:QVMAG" ; Times: 1
+	Query: "Galeorhinus galeus mappable:1" ; Times: 1
+	Query: "Solegnathus spinosissimus" ; Times: 1
+	Query: "Leptoichthys fistularius mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1985-2-0237" ; Times: 1
+	Query: "vntype:specimen genus:Tyto catalognumber:1980 institutioncode:QVMAG" ; Times: 1
+	Query: "specificepithet:atun genus:thyrsites mappable:1" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "Histiogamphelus briggsii mappable:1" ; Times: 1
+	Query: "Vanacampus phillipi mappable:1" ; Times: 1
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:1981 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1964 institutioncode:QVMAG" ; Times: 2
+	Query: "Centriscops humerosus mappable:1" ; Times: 1
+	Query: "Vanacampus poecilolaemus" ; Times: 1
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Vanacampus poecilolaemus mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1970-2-0070" ; Times: 1
+	Query: "genus:Tyto catalognumber:1965 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1971 institutioncode:QVMAG" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 1
+	Query: "Lissocampus caudalis mappable:1" ; Times: 1
+	Query: "Histiogamphelus briggsii" ; Times: 1
+	Query: "genus:Tyto catalognumber:1980 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:0043 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1984-2-0189" ; Times: 1
+	Query: "genus:Tyto catalognumber:1968 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1984-2-0184" ; Times: 1
+	Query: "Lissocampus runa mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Tyto country:&#34;Australia&#34; catalognumber:1980 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1970-2-0060" ; Times: 1
+	Query: "Mustelus mustelus mappable:1" ; Times: 3
+	Query: "Notopogon lilliei" ; Times: 2
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:0043" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Lissocampus caudalis" ; Times: 1
+	Query: "vntype:specimen genus:Tyto catalognumber:1981 institutioncode:QVMAG" ; Times: 3
+	Query: "specificepithet:galeus genus:galeorhinus mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1970 institutioncode:QVMAG" ; Times: 1
+	Query: "Mitotichthys tuckeri" ; Times: 1
+	Query: "alectoris graeca" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Stigmatopora nigra" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Pugnaso curtirostris" ; Times: 1
+	Query: "Pegasus lancifer" ; Times: 1
+	Query: "Perca fluviatilis mappable:1" ; Times: 1
+	Query: "Foetorepus calauropomus mappable:1" ; Times: 1
+	Query: "Pugnaso curtirostris mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Tyto catalognumber:1982 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1974 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1986 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1980-2-0423" ; Times: 1
+	Query: "genus:Tyto catalognumber:1987 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1994" ; Times: 1
+	Query: "Lepidopus caudatus mappable:1" ; Times: 1
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1983 institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1978 institutioncode:QVMAG" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "specificepithet:pelamis genus:katsuwonus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Leptoichthys fistularius" ; Times: 1
+	Query: "vntype:specimen genus:Tyto country:&#34;Australia&#34; institutioncode:QVMAG" ; Times: 1
+	Query: "genus:Tyto catalognumber:1982 institutioncode:QVMAG" ; Times: 1
+	Query: "Mitotichthys tuckeri mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1979 institutioncode:QVMAG" ; Times: 1
+	Query: "vntype:specimen genus:Tyto country:&#34;Australia&#34; catalognumber:1981 institutioncode:QVMAG" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "Hippocampus abdominalis mappable:1" ; Times: 1
+	Query: "Phyllopteryx taeniolatus mappable:1" ; Times: 1
+	Query: "Lissocampus runa" ; Times: 1
+	Query: "Stigmatopora nigra mappable:1" ; Times: 1
+	Query: "Scomberesox saurus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:novaehollandiae genus:Tyto institutioncode:QVMAG" ; Times: 6
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Tyto institutioncode:QVMAG" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 1
+	Query: "specificepithet:cephalus genus:mugil mappable:1" ; Times: 1
+	Query: "Pegasus lancifer mappable:1" ; Times: 1
+	Query: "Centriscops humerosus" ; Times: 1
+	Query: "genus:Tyto catalognumber:1995-2-0010" ; Times: 1
+	Query: "Foetorepus calauropomus" ; Times: 1
+	Query: "genus:Tyto catalognumber:1963 institutioncode:QVMAG" ; Times: 1
+	Query: "Pomatomus saltatrix mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:1984 institutioncode:QVMAG" ; Times: 1
+	Query: "specificepithet:zygaena genus:sphyrna mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 809 download events in this period)
+Total number of records downloaded: 89
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: India ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+
+
+End of report.
