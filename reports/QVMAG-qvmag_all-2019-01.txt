@@ -1,0 +1,65 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 7
+	Country: France ; Times: 5
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: New Zealand ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-02 ; Times: 7
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-14 ; Times: 26
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 7
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "hydrurga leptonyx" ; Times: 26
+	Query: "vntype:specimen specificepithet:novaehollandiae genus:Tyto institutioncode:QVMAG" ; Times: 3
+	Query: "Ophisurus serpens mappable:1" ; Times: 2
+	Query: "trygonorrhina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 962 download events in this period)
+Total number of records downloaded: 88
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "Crocodilia" ; Times: 1
+
+
+End of report.
