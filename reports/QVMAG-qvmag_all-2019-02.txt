@@ -1,0 +1,78 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 127
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: France ; Times: 23
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 6
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 13
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-04 ; Times: 7
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-08 ; Times: 6
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophisurus serpens mappable:1" ; Times: 1
+	Query: "Zu cristatus" ; Times: 1
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 6
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "Crocodylus johnstoni" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 6
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1227 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "orcinus orca" ; Times: 2
+
+
+End of report.
