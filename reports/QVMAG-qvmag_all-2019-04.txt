@@ -1,0 +1,70 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 211
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 8
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-24 ; Times: 6
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mortierii genus:Tribonyx" ; Times: 4
+	Query: "specificepithet:mortierii genus:Gallinula" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "hirundapus" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "vntype:specimen specificepithet:novaehollandiae genus:Tyto institutioncode:QVMAG" ; Times: 2
+	Query: "specificepithet:nereis genus:Sterna" ; Times: 4
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Tribonyx mortierii" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1263 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "Eudyptes schlegeli" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+
+
+End of report.
