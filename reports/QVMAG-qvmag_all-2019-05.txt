@@ -1,0 +1,119 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 5
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 12
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 3
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 29
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 8
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Parascyllium ferrugineum" ; Times: 1
+	Query: "Urolophus viridis" ; Times: 1
+	Query: "Myliobatis australis" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Numenius" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Cacatua roseicapilla year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Hydrolagus ogilbyi" ; Times: 1
+	Query: "coturnix novaezelandiae" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "eudyptes sclateri" ; Times: 2
+	Query: "macronectes giganteus" ; Times: 2
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "Centroscymnus plunketi" ; Times: 1
+	Query: "Squatina australis" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 1
+	Query: "eudyptes robustus" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "Asymbolus vincenti" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "eudyptes chrysolophus" ; Times: 1
+	Query: "Furgaleus macki" ; Times: 1
+	Query: "Chionis minor year &gt; 1990" ; Times: 1
+	Query: "Gymnorhina tibicen year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Mirounga leonina mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Parascyllium collare" ; Times: 1
+	Query: "Squalus megalops" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Cephaloscyllium laticeps" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Pristiophorus cirratus" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Pristiophorus nudipinnis" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 1
+	Query: "Chionis minor" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "Salmo trutta" ; Times: 5
+	Query: "Callorhinchus milii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+
+
+End of report.
