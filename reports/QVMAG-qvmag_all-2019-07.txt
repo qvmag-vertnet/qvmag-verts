@@ -1,0 +1,99 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 550
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 25
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 21
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-08 ; Times: 7
+	Date: 2019-07-18 ; Times: 18
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-28 ; Times: 5
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pachyptila macquarie" ; Times: 7
+	Query: "Thylacinus vntype:specimen" ; Times: 4
+	Query: "Thylacinus" ; Times: 1
+	Query: "genus:Porzana specificepithet:fluminea" ; Times: 1
+	Query: "genus:Pardalotus specificepithet:punctatus" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 4
+	Query: "pelagodroma marina year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "Eubalaena" ; Times: 1
+	Query: "family:podicipedidae institutioncode:QVMAG" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "procellaria" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 1
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "eubalaena" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "genus:Crocodylus mappable:1" ; Times: 2
+	Query: "genus:Stagonopleura specificepithet:bella" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Poliocephalus family:Podicipedidae class:Aves institutioncode:QVMAG" ; Times: 1
+	Query: "Agapornis roseicollis mappable:1" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 2
+	Query: "pachyptila salvini" ; Times: 2
+	Query: "pachyptila desolata macquarie" ; Times: 1
+	Query: "pelagodroma year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Neophema chrysostoma" ; Times: 4
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "pachyptila desolata year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 985 download events in this period)
+Total number of records downloaded: 56
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+
+
+End of report.
