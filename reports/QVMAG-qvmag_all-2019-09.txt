@@ -1,0 +1,70 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 286
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-28 ; Times: 5
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pachyptila O.8094" ; Times: 2
+	Query: "Mordacia" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "locality:Christmas Island year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "Calidris canutus" ; Times: 5
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "Mordacia mordax" ; Times: 3
+	Query: "Geotria australis" ; Times: 1
+	Query: "Pristiophorus" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1073 download events in this period)
+Total number of records downloaded: 313
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Singapore ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "pachyptila" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.
