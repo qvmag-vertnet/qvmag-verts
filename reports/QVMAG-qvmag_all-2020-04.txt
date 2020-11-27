@@ -1,0 +1,108 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 1953
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 229
+	Country: Unknown ; Times: 3
+	Country: Australia ; Times: 1
+	Country: India ; Times: 4
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 72
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-17 ; Times: 6
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-14 ; Times: 12
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-21 ; Times: 56
+	Date: 2020-04-03 ; Times: 25
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 60
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 10
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Leucocarbo albiventer" ; Times: 4
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Hirundapus caudacutus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Tinca tinca" ; Times: 7
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "coturnix chinensis" ; Times: 2
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Turdus merula" ; Times: 14
+	Query: "Fulica atra" ; Times: 3
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Dama dama" ; Times: 3
+	Query: "Anguilla australis" ; Times: 6
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Gallus gallus" ; Times: 2
+	Query: "pavo cristatus" ; Times: 4
+	Query: "cercartetus nanus" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 9
+	Query: "phoebetria palpebrata" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Sprattus sprattus" ; Times: 5
+	Query: "Felis catus" ; Times: 4
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "Thylacinus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Chionis" ; Times: 1
+	Query: "Chionis minor" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "Felis catus year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Atherinosoma microstoma" ; Times: 2
+	Query: "Phalacrocorax fuscescens" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1171 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Tyto novaehollandiae" ; Times: 1
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Gallinago hardwickii" ; Times: 1
+
+
+End of report.
