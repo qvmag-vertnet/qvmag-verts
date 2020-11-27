@@ -1,0 +1,128 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 1047
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 57
+	Country: Australia ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: New Zealand ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 28
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-24 ; Times: 25
+	Date: 2019-10-05 ; Times: 10
+	Date: 2019-10-03 ; Times: 7
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-04 ; Times: 15
+	Date: 2019-10-21 ; Times: 20
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnaconus degeni mappable:1" ; Times: 2
+	Query: "Centroscymnus plunketi" ; Times: 1
+	Query: "Meuschenia hippocrepis mappable:1" ; Times: 2
+	Query: "Halcyon australasia" ; Times: 1
+	Query: "Meuschenia scaber mappable:1" ; Times: 2
+	Query: "Acanthaluteres vittiger mappable:1" ; Times: 2
+	Query: "Urolophus viridis" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 2
+	Query: "specificepithet:chrysogaster genus:Neophema" ; Times: 2
+	Query: "Scobinichthys granulatus mappable:1" ; Times: 2
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "specificepithet:phoenicoptera genus:pytilia class:aves" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 2
+	Query: "Mus musculus 1984" ; Times: 2
+	Query: "Mus musculus 1988" ; Times: 2
+	Query: "Meuschenia freycineti mappable:1" ; Times: 2
+	Query: "Rattus norvegicus 1980" ; Times: 1
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "Rattus norvegicus 1983" ; Times: 1
+	Query: "Rattus norvegicus 1984" ; Times: 1
+	Query: "Rattus norvegicus 1985" ; Times: 1
+	Query: "Acanthaluteres spilomelanurus mappable:1" ; Times: 2
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Squatina australis" ; Times: 2
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Rattus norvegicus 1979" ; Times: 1
+	Query: "Meuschenia australis mappable:1" ; Times: 2
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 2
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "Myliobatis australis" ; Times: 2
+	Query: "Parascyllium ferrugineum" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Furgaleus macki" ; Times: 2
+	Query: "Asymbolus vincenti" ; Times: 1
+	Query: "Parascyllium collare" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Meuschenia flavolineata mappable:1" ; Times: 2
+	Query: "Eubalichthys gunnii mappable:1" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Halcyon australasia australasia" ; Times: 3
+	Query: "Pristiophorus nudipinnis" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 3
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Mus musculus 1980" ; Times: 2
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "poephila cincta" ; Times: 2
+	Query: "Squalus megalops" ; Times: 2
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Hydrolagus ogilbyi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1308 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stercorariidae" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Halcyon australasia australasia" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+
+
+End of report.
