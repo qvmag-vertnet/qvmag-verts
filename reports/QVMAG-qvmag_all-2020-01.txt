@@ -1,0 +1,78 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 535
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 15
+	Country: France ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-01 ; Times: 7
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-05 ; Times: 7
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-23 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampris guttatus mappable:1" ; Times: 4
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "specificepithet:tyleri genus:Litoria" ; Times: 1
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "specificepithet:dumerilii genus:Limnodynastes" ; Times: 10
+	Query: "australis Nannoperca" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:leucoptera genus:pterodroma" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "Lepus capensis mappable:1" ; Times: 3
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "Zu cristatus mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 3
+	Query: "specificepithet:raniformis genus:Litoria" ; Times: 1
+	Query: "specificepithet:ewingii genus:Litoria" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "Dasyprocta sp. mappable:1" ; Times: 3
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "specificepithet:gracilenta genus:Litoria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1584 download events in this period)
+Total number of records downloaded: 309
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "Dasyurus maculatus" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+
+
+End of report.
