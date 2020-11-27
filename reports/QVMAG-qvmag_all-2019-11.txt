@@ -1,0 +1,70 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 1191
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Denmark ; Times: 10
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 5
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-03 ; Times: 8
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "coturnix novaezelandiae" ; Times: 2
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 2
+	Query: "Dama dama" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "lissocampus runa" ; Times: 1
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Pseudocheirus peregrinus" ; Times: 1
+	Query: "etmopterus" ; Times: 5
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "pavo cristatus" ; Times: 2
+	Query: "Eubalaena glacialis" ; Times: 2
+	Query: "Vombatus ursinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1367 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+
+
+End of report.
