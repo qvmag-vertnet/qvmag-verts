@@ -1,0 +1,64 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 150
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 3
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-23 ; Times: 4
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falsistrellus tasmaniensis" ; Times: 1
+	Query: "puffinus assimilis pacific year &gt;= 1968 year &lt;= 2020" ; Times: 1
+	Query: "Nyctophilus sherrini" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Vespadelus vulturnus" ; Times: 1
+	Query: "Acrocephalus stentoreus" ; Times: 2
+	Query: "Atherinosoma microstoma mappable:1" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "Nyctophilus timoriensis" ; Times: 1
+	Query: "diomedea melanophrys" ; Times: 2
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "genus:Caperea" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Chalinolobus morio" ; Times: 1
+	Query: "turtur macquarie" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Urocampus" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 853 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
