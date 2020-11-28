@@ -1,0 +1,64 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 288
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 64
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-11 ; Times: 24
+	Date: 2020-06-10 ; Times: 22
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-15 ; Times: 9
+	Date: 2020-06-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "macruronus novaezelandiae" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "neocyttus rhomboidalis" ; Times: 1
+	Query: "Salmo trutta" ; Times: 9
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "rhombosolea tapirina" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Tadorna tadorna" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 66
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+
+
+End of report.
