@@ -1,0 +1,64 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Russia ; Times: 1
+	Country: France ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "norfolkia" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 283
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alauda arvensis" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "cetacea" ; Times: 1
+
+
+End of report.
