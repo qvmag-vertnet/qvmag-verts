@@ -1,0 +1,95 @@
+Report for Institution Code QVMAG, Resource qvmag_all
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 254
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Portugal ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-10 ; Times: 23
+	Date: 2020-08-19 ; Times: 4
+	Date: 2020-08-21 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "Thunnus maccoyii" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura gouldiae" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Leucocarbo albiventer" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis roseicollis" ; Times: 1
+	Query: "mappable:1 scientificname:Polytelis swainsonii" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus eximius" ; Times: 1
+	Query: "mappable:1 scientificname:Cygnus atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Lathamus discolor" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua galerita" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia roseogrisea" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "mappable:1 scientificname:Chenonetta jubata" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "mappable:1 scientificname:Anas rhynchotis" ; Times: 1
+	Query: "mappable:1 scientificname:Poephila acuticauda" ; Times: 1
+	Query: "mappable:1 scientificname:Cereopsis novaehollandiae" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix chinensis" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "mappable:1 scientificname:Neochmia ruficauda" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Anas castanea" ; Times: 1
+	Query: "mappable:1 scientificname:Chloebia gouldiae" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis personata" ; Times: 1
+	Query: "mappable:1 scientificname:Nymphicus hollandicus" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris graeca" ; Times: 1
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Hirundo neoxena" ; Times: 1
+	Query: "mappable:1 scientificname:Pytilia phoenicoptera" ; Times: 1
+	Query: "Phalacrocorax fuscescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 756 download events in this period)
+Total number of records downloaded: 56
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "alauda" ; Times: 1
+
+
+End of report.
